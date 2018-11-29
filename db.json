@@ -11,5 +11,8 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "forecast": {
+    "weather": "sunny"
   }
 }
